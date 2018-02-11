@@ -1,6 +1,0 @@
-[Fri Feb  9 23:23:47 EST 2018] 1 of 1 tests passed
-[Fri Feb  9 23:48:36 EST 2018] 1 of 1 tests passed
-[Fri Feb  9 23:58:39 EST 2018] 2 of 2 tests passed
-[Sat Feb 10 09:33:59 EST 2018] 2 of 2 tests passed
-[Sat Feb 10 09:58:02 EST 2018] 2 of 2 tests passed
-[Sat Feb 10 19:38:17 EST 2018] 2 of 2 tests passed
