@@ -46,11 +46,11 @@ Assuming the directory structure is as follows:
             |   |__ output
             |   │   └── repeat_donors.txt
             ├── test_2
-            	├── input
-            	│   └── percentile.txt
-            	│   └── itcont.txt
-            	|__ output
-            	│   └── repeat_donors.txt
+                ├── input
+                │   └── percentile.txt
+                │   └── itcont.txt
+                |__ output
+                │   └── repeat_donors.txt
 
 i.e. if the input files `percentile.txt` and `itcont.txt` are located inside `input` directory, then running the code is as simple as:
 
