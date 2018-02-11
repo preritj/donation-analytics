@@ -54,7 +54,8 @@ Assuming the directory structure is as follows:
 
 i.e. if the input files `percentile.txt` and `itcont.txt` are located inside `input` directory, then running the code is as simple as:
 
-```./run.sh```
-The output will be created in `output/repeat_donors.txt`. 
+```./run.sh``` 
+
+The output will be created in `output/repeat_donors.txt`.  
 
 If the input files are not in their default directories, you can specify their locations in `run.sh`. 
